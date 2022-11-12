@@ -182,10 +182,11 @@ x::after {
     display: block;
     width: 15vmin;
     height: 3.75vmin;
-    position: absolute;
+    position: relative;
     top: 40vmin;
     left: 5vmin;
     border-radius: 50%;
+      animation: shadow 1500ms ease-in-out alternate infinite;
 }
 
 h1, h3 {
