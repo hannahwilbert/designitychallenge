@@ -268,3 +268,9 @@ h3 {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
+
+#logo {
+    margin-top: 1.5vh;
+    margin-left: 3vw;
+    width: 9vw;
+}
